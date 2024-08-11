@@ -1,0 +1,6 @@
+
+
+GITHUB_USERNAME = 'deepideva'
+GITHUB_TOKEN = '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'
+
+url -- https://github.com/deepideva/python2024.git
